@@ -66,9 +66,7 @@ Displays the player’s final score and provides a restart option.
 | `player.py` | Player movement, gravity, and collision handling | Karan Koyande |
 | `enemy.py` | Enemy AI logic and patrol behavior | Karan Naglekar |
 | `gui.py` | Menus, score display, and GUI elements | Dhiraj Salekar |
-| `/assets/sprites` | Character, enemy, and collectible sprites | Jaydip Ingle |
 | `/assets/backgrounds` | Background art and tile sets | Jaydip Ingle |
-| `/assets/sounds` | Sound effects and background music | Dhiraj Salekar |
 | `/levels` | Level design files created using Tiled | Karan Naglekar |
 | `README.md` | Project documentation and report | All Members |
 
