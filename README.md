@@ -150,8 +150,7 @@ Despite facing challenges, the project strengthened our technical, collaborative
 - **Project Title:** 2D Mario-Style Platformer Game  
 - **Course:** Mini Project – Game Development using Python  
 - **Team Size:** 4 Members  
-- **Duration:** 3 Weeks  
-- **Repository:** [GitHub Project Link](https://github.com/clear-code-projects/2D-Mario-style-platformer)  
+- **Duration:** 3 Weeks 
 - **Team Members:**  
   - Karan Koyande  
   - Dhiraj Salekar  
